@@ -7,7 +7,11 @@ rgs = {
     name     = "rg-chor-dev-2"
     location = "centralindia"
 }
-
+rg3 ={
+    name     = "rg-chor-dev-3"
+    location = "centralindia"
+  }
+}
 vnets = {
   vnet1 = {
     name                = "vnet-chor-dev"
